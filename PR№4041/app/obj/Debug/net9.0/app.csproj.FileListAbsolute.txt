@@ -1,0 +1,14 @@
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\bin\Debug\net9.0\app.exe
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\bin\Debug\net9.0\app.deps.json
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\bin\Debug\net9.0\app.runtimeconfig.json
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\bin\Debug\net9.0\app.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\bin\Debug\net9.0\app.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\refint\app.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№4041\app\obj\Debug\net9.0\ref\app.dll
