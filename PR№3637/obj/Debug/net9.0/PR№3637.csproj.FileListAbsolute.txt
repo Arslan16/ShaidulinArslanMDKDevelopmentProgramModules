@@ -1,0 +1,14 @@
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\bin\Debug\net9.0\PR№3637.exe
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\bin\Debug\net9.0\PR№3637.deps.json
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\bin\Debug\net9.0\PR№3637.runtimeconfig.json
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\bin\Debug\net9.0\PR№3637.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\bin\Debug\net9.0\PR№3637.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.GeneratedMSBuildEditorConfig.editorconfig
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.AssemblyInfoInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.AssemblyInfo.cs
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.csproj.CoreCompileInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\refint\PR№3637.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\PR№3637.genruntimeconfig.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№3637\obj\Debug\net9.0\ref\PR№3637.dll

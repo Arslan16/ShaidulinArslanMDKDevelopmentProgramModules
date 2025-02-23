@@ -1,0 +1,14 @@
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\bin\Debug\net9.0\PR№5455.exe
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\bin\Debug\net9.0\PR№5455.deps.json
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\bin\Debug\net9.0\PR№5455.runtimeconfig.json
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\bin\Debug\net9.0\PR№5455.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\bin\Debug\net9.0\PR№5455.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.GeneratedMSBuildEditorConfig.editorconfig
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.AssemblyInfoInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.AssemblyInfo.cs
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.csproj.CoreCompileInputs.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\refint\PR№5455.dll
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.pdb
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\PR№5455.genruntimeconfig.cache
+E:\Colledge\MDKDevelopingProgramModules\PR№5455\obj\Debug\net9.0\ref\PR№5455.dll
