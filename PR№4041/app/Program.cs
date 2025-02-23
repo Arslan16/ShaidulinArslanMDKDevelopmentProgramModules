@@ -110,8 +110,7 @@ namespace app{
                 Console.WriteLine();
                 foreach (string key in tasks.Keys) Console.WriteLine($"{key}. {tasks[key]}");
                 choose_task:
-                Console.WriteLine("\nВыберите действие:");
-                Console.Write("Действие: ");
+                Console.Write("\nВыберите действие:");
                 string input = Console.ReadLine() ?? "";
                 switch (input) { 
                     case "1":
@@ -196,7 +195,6 @@ namespace app{
                 if (filename != "" & filename != root_file) {
                     List<string> lines_to_write = new List<string>();
                     foreach (string key in result.Keys) {
-                        Console.WriteLine($"{key}{sep}{result[key]}");
                         lines_to_write.Add($"{key}{sep}{result[key]}");
                     }
                     File.WriteAllLines(filename, lines_to_write);
@@ -212,7 +210,7 @@ namespace app{
 
         static void SaveStateToList(List<string> result, string root_file) {
             chooseSave:
-            Console.WriteLine("Сохранить в файл?");
+            Console.Write("Сохранить в файл? Y/N ");
             string choose = Console.ReadLine() ?? "";
             if (choose == "Y") {
                 Console.WriteLine("Напишите имя файла:");
@@ -231,7 +229,7 @@ namespace app{
 
         static void DeleteState (List<string> lines, string file_path) {
             ChooseLine:
-            Console.WriteLine("Выберите номер строки: ");
+            Console.Write("Выберите номер строки: ");
             string input = Console.ReadLine() ?? "";
             bool can_be_parsed = int.TryParse(input, out int lineNumber);
             if (can_be_parsed == true) {
