@@ -29,7 +29,7 @@ namespace PR5445 {
 
         public static void Task1 () {
             List<int> numbers = new List<int>();
-            for (int i = 0; i < 256; i++) numbers.Add(i);
+            for (int i = 1; i < 256; i++) numbers.Add(i);
             string string_numbers = string.Join(",", numbers);
             File.WriteAllText("numbers.txt", string_numbers);
             Console.WriteLine("Выполнено!");
@@ -52,34 +52,37 @@ namespace PR5445 {
         }
 
         public static void Task4 () {
-            List<int> even_numbers = new List<int>() {};
-            List<int> not_even_numbers = new List<int>() {};
+            List<int> even_numbers = new List<int>() {}; // четные числа
+            List<int> not_even_numbers = new List<int>() {}; // нечетные числа
             Console.Write("Введите длину массива: ");
             string input = Console.ReadLine() ?? "";
             bool can_parse = int.TryParse(input, out int len);
             Random randomizer = new Random();
             if (can_parse == true) {
                 for (int i = 0; i<len; i++) {
+                    // Если четное, добавить сгенерированное число к списку четных индексов
                     if (i % 2 == 0) even_numbers.Add(randomizer.Next(1, 1000));
+                    // Если нет, то добавить сгенерированное число к списку нечетных индексов
                     else not_even_numbers.Add(randomizer.Next(1, 1000));
                 };
-                foreach (int number in even_numbers) Console.Write($"{number} ");
-                Console.WriteLine();
-                foreach (int number in not_even_numbers) Console.Write($"{number}");
-                File.WriteAllText("task4_numbers.txt", string.Join(" ", even_numbers));
-                File.WriteAllText("task4_numbers.txt", "\n");
-                File.WriteAllText("task4_numbers.txt", string.Join(" ", not_even_numbers));
+                foreach (int number in even_numbers) Console.Write($"{number} "); // Вывод четных чисел в консоль
+                Console.WriteLine(); // Для переноса строки
+                foreach (int number in not_even_numbers) Console.Write($"{number} "); // Вывод нечетных в консоль
+                File.WriteAllText(
+                    "task4_numbers.txt", 
+                    $"{string.Join(" ", even_numbers)}\n{string.Join(" ", not_even_numbers)}"
+                ); // Записать четные в файл
             }
-            Console.WriteLine("Выполнено!");
+            Console.WriteLine("\n Выполнено!");  
         }
 
         public static void Task5 () {
-            List<string> data = File.ReadAllLines("task4_numbers.txt").ToList();
+            List<string> data = File.ReadAllLines("cars.txt").ToList();
+            File.Create("new.txt");
             for (int i = 0; i < data.Count; i++) {
-                File.WriteAllText("new.txt", $"{data[i]}\n");
-                decimal del = i / data.Count * 100;
-                decimal procent = Math.Round(del);
-                Console.WriteLine($"{procent}%");
+                File.AppendAllText("new.txt", $"{data[i]}\n");
+                double del = (double)i / (double)data.Count * (double)100;
+                Console.WriteLine($"{Math.Round(del)}%");
                 Thread.Sleep(1000);
             }
             Console.WriteLine("Выполнено!");
