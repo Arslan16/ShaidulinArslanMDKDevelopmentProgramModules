@@ -1,0 +1,14 @@
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/bin/Debug/net8.0/PR№7071
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/bin/Debug/net8.0/PR№7071.deps.json
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/bin/Debug/net8.0/PR№7071.runtimeconfig.json
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/bin/Debug/net8.0/PR№7071.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/bin/Debug/net8.0/PR№7071.pdb
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.GeneratedMSBuildEditorConfig.editorconfig
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.AssemblyInfoInputs.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.AssemblyInfo.cs
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.csproj.CoreCompileInputs.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/refint/PR№7071.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.pdb
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/PR№7071.genruntimeconfig.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№7071/obj/Debug/net8.0/ref/PR№7071.dll
