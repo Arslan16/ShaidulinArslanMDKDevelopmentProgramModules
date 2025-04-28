@@ -1,0 +1,14 @@
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.GeneratedMSBuildEditorConfig.editorconfig
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.AssemblyInfoInputs.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.AssemblyInfo.cs
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.csproj.CoreCompileInputs.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/bin/Debug/net8.0/PR№70-71
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/bin/Debug/net8.0/PR№70-71.deps.json
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/bin/Debug/net8.0/PR№70-71.runtimeconfig.json
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/bin/Debug/net8.0/PR№70-71.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/bin/Debug/net8.0/PR№70-71.pdb
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/refint/PR№70-71.dll
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.pdb
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/PR№70-71.genruntimeconfig.cache
+/media/arslan/Kingston/Colledge/MDKDevelopingProgramModules/PR№70-71/obj/Debug/net8.0/ref/PR№70-71.dll
